@@ -1,5 +1,4 @@
-## React - The complete guide | Udemy course
----
+# React - The complete guide | Udemy course
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
